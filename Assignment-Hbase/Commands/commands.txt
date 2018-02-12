@@ -1,0 +1,17 @@
+hbase(main):027:0> put 'people','John','courses:CS','cs490'
+0 row(s) in 0.0120 seconds
+
+hbase(main):028:0> put 'people','Mary','hobby:baseball','yes'
+0 row(s) in 0.0070 seconds
+
+hbase(main):029:0> put 'people','Bob','courses:ECE','ece210'
+0 row(s) in 0.0170 seconds
+
+hbase(main):030:0> put 'people','Alice','hobby:soccer','yes'
+0 row(s) in 0.0070 seconds
+
+hbase(main):031:0> put 'people','Mike','hobby:baseball','yes'
+0 row(s) in 0.0120 seconds
+
+hbase(main):032:0> put 'people','Jill','hobby:soccer','no'
+
